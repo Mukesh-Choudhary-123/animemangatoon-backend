@@ -43,3 +43,8 @@ JWT-based authentication for the POST and DELETE endpoints.
 1. Upload your completed project on GitHub.
 2. Share the repository link on Assignment Submission.
 3. Ensure the repository permissions allow access to view your code.
+
+### need to run
+
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret_key
